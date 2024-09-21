@@ -1,1 +1,1 @@
-"# Chatbot" 
+I developed an AI-powered chatbot that leverages natural language processing (NLP) to assist users in real-time with customer support and query resolution. The chatbot automates responses to common inquiries, improving efficiency by reducing response times and enhancing user experience. Additionally, I integrated features for personalized recommendations based on user interactions.
